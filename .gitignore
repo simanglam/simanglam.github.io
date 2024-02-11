@@ -18,6 +18,9 @@ package-lock.json
 .idea
 
 # Misc
+<<<<<<< HEAD
 *.map
 sw.min.js
 assets/js/dist
+=======
+>>>>>>> c405683 (chore: initialize the environment)
