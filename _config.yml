@@ -16,10 +16,10 @@ timezone: Asia/Taipei
 
 title: "Si manglam" # the main title
 
-tagline: 程式自學路上的筆記 # it will display as the sub-title
+tagline: 隨筆記 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  一個關於感興趣的事情的隨手記
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
